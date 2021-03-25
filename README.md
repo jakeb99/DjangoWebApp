@@ -1,3 +1,3 @@
 # DjangoWebApp
 
-To run from CML enter: ```python manage.py runserver```
+To run from CLI enter ```python manage.py runserver``` from root folder.
